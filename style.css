@@ -1,0 +1,73 @@
+
+
+   .verde{
+          background: #A3E4D7;
+         }
+
+    table{
+      border:hidden;
+          
+
+    }
+   .lineatabla{
+              border-color:blue;
+              } 
+
+    th span.simbolo{
+                   color: blue; 
+                   }  
+    th span.elemento{
+                     color: red;
+                    }                      
+
+   .rojo{
+        background: #E74C3C;
+        }             
+   .amarillooscuro{
+       background: #FAD7A0;
+                   }
+    .rosado{
+      background: #F5B7B1;
+           }
+
+    .lantanidos{
+        background: #D2B4DE;
+           }
+
+    .actinidos{
+                background: #F1948A; 
+              }    
+
+    .olive{
+            background: olive;
+            
+         }   
+
+     .gris{
+           background:#C0C0C0;
+         } 
+
+     .verde{
+            background: #82E0AA;  
+           } 
+
+     .amarillo{
+               background: #F9E79F;  
+              }  
+
+     .azulclaro{
+                background:#D6EAF8;
+               } 
+      h4{
+          float: left;
+          color: blue;
+      }  
+      .sinborde{
+          border:0px;
+      } 
+
+      p{
+          font-family: 'Times New Roman', Times, serif;
+          font-size: 10px;
+          text-align: left;
+      }
